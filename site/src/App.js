@@ -1,5 +1,6 @@
 import logo from './logo.svg';
 import './App.css';
+import Tela from "./Tela";
 
 function App() {
   return (
